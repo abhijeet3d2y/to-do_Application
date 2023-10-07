@@ -1,0 +1,27 @@
+{
+  "name": "zipt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhijeet3d2y/zipteamsAssignment1.git"
+  },
+  "author": "Abhijeet Pawar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhijeet3d2y/zipteamsAssignment1/issues"
+  },
+  "homepage": "https://github.com/abhijeet3d2y/zipteamsAssignment1#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "chai": "^4.3.10",
+    "chai-http": "^4.4.0",
+    "express": "^4.18.2",
+    "mocha": "^10.2.0",
+    "pg": "^8.11.3"
+  }
+}
